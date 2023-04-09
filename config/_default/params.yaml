@@ -2,8 +2,8 @@ description: Fuad Efendi is an Independent Consultant specializing in Microservi
 
 hb:
   header:
-    brand: HB # the brand name, leave it empty to use site's title.
-    logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
+    brand: ' ' # the brand name, leave it empty to use site's title.
+    logo_bg: 'transparent' # logo background color, used by logo with transparent background.
     socials:
       github: hbstack
       kofi: razonyang

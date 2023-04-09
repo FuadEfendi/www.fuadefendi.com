@@ -3,7 +3,6 @@ title: Blog
 draft: true
 menu:
   main:
-    identifier: blog
     weight: 4
     params:
       icon:

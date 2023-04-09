@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Articles
 menu:
   main:
     weight: 1
@@ -9,4 +9,4 @@ menu:
         name: book
 ---
 
-The example of Docs layout.
+Software engineering design patterns and best practices guides.

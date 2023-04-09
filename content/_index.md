@@ -1,5 +1,5 @@
 ---
-title: HB Theme Template
+title: Fuad Efendi, Independent Consultant
 # menu:
 #   main:
 #     name: Home
