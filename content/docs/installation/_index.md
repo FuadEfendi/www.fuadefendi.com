@@ -1,5 +1,6 @@
 ---
 title: Installation Guide
+draft: true
 linkTitle: Installation
 nav_icon:
   vendor: bs

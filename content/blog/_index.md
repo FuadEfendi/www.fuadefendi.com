@@ -1,5 +1,6 @@
 ---
 title: Blog
+draft: true
 menu:
   main:
     identifier: blog

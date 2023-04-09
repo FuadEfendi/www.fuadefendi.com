@@ -1,5 +1,6 @@
 ---
 title: Examples
+draft: true
 menu:
   main:
     weight: 3
