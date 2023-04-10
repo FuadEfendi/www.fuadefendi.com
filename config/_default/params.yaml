@@ -25,6 +25,7 @@ hb:
         - docs
         - blog
         - tutorials
+    post_thumbnail: false
     giscus:
       repo: hbstack/theme
       repo_id: R_kgDOJP3qtA
@@ -40,6 +41,8 @@ hb:
       repo: hbstack/theme
       branch: main
       # subpath: exampleSite
+  gallery:
+    thumbnail_size: 
 
 seo:
   favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
