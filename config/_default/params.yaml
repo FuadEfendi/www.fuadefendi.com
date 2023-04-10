@@ -2,7 +2,7 @@ description: Fuad Efendi is an Independent Consultant specializing in Microservi
 
 hb:
   header:
-    brand: ' ' # the brand name, leave it empty to use site's title.
+    brand: # the brand name, leave it empty to use site's title.
     logo_bg: 'transparent' # logo background color, used by logo with transparent background.
     socials:
       github: hbstack
