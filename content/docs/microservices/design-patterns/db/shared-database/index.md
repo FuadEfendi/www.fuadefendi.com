@@ -35,5 +35,5 @@ The benefits of the "Shared Database" pattern are:
 
 The drawbacks of the "Shared Database" pattern are:
 - **Development time coupling** between different team members and even diffennt teams; additional coordination needed for each schema change which slows down development; huge corporations even have schema management procedures in place which can take weeks to get prroved
-- **Runtime coupling**: different servicescan potentially interfere with one another. For example, long running annual transactions report may interfere with purchase transactions submitted by customers.
+- **Runtime coupling**: different services can potentially interfere with each other. For example, long running annual transactions report may interfere with purchase transactions submitted by customers.
 
