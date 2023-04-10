@@ -23,7 +23,7 @@ authors:
 - Each transaction updates the database and publishes a message (emits an event) to trigger the next transaction in the saga. 
 - If a transaction fails then the saga executes a series of compensating transactions that undo the changes that were made by the preceding transactions.
 
-## What are the benefits and drawbacks of the "Saga Distributed Transactions" microservices architecture design pattern?
+## What are the benefits and drawbacks of the "Saga Distributed Transactions"?
 
 The benefits of the "Saga Distributed Transactions" design pattern are:
 - Good for simple workflows that require few participants and don't need a coordination logic.
