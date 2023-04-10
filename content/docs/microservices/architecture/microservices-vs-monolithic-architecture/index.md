@@ -1,5 +1,5 @@
 ---
-date: 2022-10-16T22:42:23+08:00
+date: 
 title: Microservices vs. Monolithic Architecture
 linkTitle: Microservices vs. Monolithic Architecture
 series:

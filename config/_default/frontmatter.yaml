@@ -1,0 +1,4 @@
+date: [":git", "date", "publishDate", "lastmod"]
+lastmod: ["lastmod", ":git", "date", "publishDate"]
+publishDate: ["publishDate", "date"]
+expiryDate: ["expiryDate"]

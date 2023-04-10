@@ -8,6 +8,8 @@ disqusShortname: hb-site
 enableRobotsTXT: true
 timeout: 120s # images processing takes a long time, it's recommended to commit the resources folder for improve the build performance.
 
+enableGitInfo: true
+
 permalinks:
   blog: /blog/:year/:month/:title
 
