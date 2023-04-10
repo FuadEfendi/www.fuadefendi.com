@@ -27,19 +27,19 @@ hb:
         - tutorials
     post_thumbnail: false
     giscus:
-      repo: hbstack/theme
-      repo_id: R_kgDOJP3qtA
-      category_id: DIC_kwDOJP3qtM4CVavM
+      repo: FuadEfendi/www.fuadefendi.com
+      repo_id: R_kgDOJUOolQ
+      category_id: DIC_kwDOJUOolc4CVrAO
   docs:
     date: [":git", "date", "publishDate", "lastmod"]
     giscus:
-      repo: hbstack/theme
-      repo_id: R_kgDOJP3qtA
-      category_id: DIC_kwDOJP3qtM4CVavM
+      repo: FuadEfendi/www.fuadefendi.com
+      repo_id: R_kgDOJUOolQ
+      category_id: DIC_kwDOJUOolc4CVrAO
   content_panel:
     repo:
       service: github # github or gitlab.
-      repo: hbstack/theme
+      repo: FuadEfendi/www.fuadefendi.com
       branch: main
       # subpath: exampleSite
   gallery:
