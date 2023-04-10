@@ -30,12 +30,14 @@ hb:
       repo: FuadEfendi/www.fuadefendi.com
       repo_id: R_kgDOJUOolQ
       category_id: DIC_kwDOJUOolc4CVrAO
+      mapping: 'og:title'
   docs:
     date: [":git", "date", "publishDate", "lastmod"]
     giscus:
       repo: FuadEfendi/www.fuadefendi.com
       repo_id: R_kgDOJUOolQ
       category_id: DIC_kwDOJUOolc4CVrAO
+      mapping: 'og:title'
   content_panel:
     repo:
       service: github # github or gitlab.
