@@ -12,9 +12,9 @@ tags:
   - architecture
   - refactoring
 images:
-featured: true
+featured: false
 authors:
-  - fuadefendi
+  - Fuad Efendi
 ---
 
 # Refactoring a monolith into microservices

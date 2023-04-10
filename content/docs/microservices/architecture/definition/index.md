@@ -1,5 +1,5 @@
 ---
-date: 2022-09-04T22:42:23+08:00
+date: 
 title: Microservices Architecture Definition
 linkTitle: Microservices Architecture Definition
 series:
@@ -11,9 +11,9 @@ tags:
   - arthitecture
   - definition
 images:
-featured: true
+featured: false
 authors:
-  - fuadefendi
+  - Fuad Efendi
 ---
 
 ## Microservices Architecture Definition

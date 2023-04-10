@@ -11,9 +11,9 @@ tags:
   - monolithic
   - architecture
 images:
-featured: true
+featured: false
 authors:
-  - fuadefendi
+  - Fuad Efendi
 ---
 
 # Microservices vs. Monolithic Architecture

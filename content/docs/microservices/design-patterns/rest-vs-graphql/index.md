@@ -10,9 +10,9 @@ tags:
   - REST
   - GraphQL
 images:
-featured: true
+featured: false
 authors:
-  - fuadefendi
+  - Fuad Efendi
 ---
 
 ## What is REST?
