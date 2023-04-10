@@ -1,5 +1,5 @@
 ---
-title: Microservices Architecture and Design Patterns
+title: Microservices
 linkTitle: Microservices
 nav_icon:
   vendor: bs
