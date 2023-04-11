@@ -1,6 +1,6 @@
 ---
 date:
-weight: 7
+nav_weight: 4
 title: CQRS
 linkTitle: CQRS
 series:

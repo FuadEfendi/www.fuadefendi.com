@@ -1,6 +1,6 @@
 ---
 date:
-weight: 4
+nav_weight: 6
 title: API Composition
 linkTitle: API Composition
 series:

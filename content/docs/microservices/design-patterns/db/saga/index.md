@@ -1,6 +1,6 @@
 ---
 date:
-weight: 3
+nav_weight: 3
 title: Saga Distributed Transactions
 linkTitle: Saga
 series:

@@ -1,6 +1,6 @@
 ---
 date:
-weight: 1
+nav_weight: 1
 title: Database Per Service
 linkTitle: Database Per Service
 series:

@@ -1,6 +1,6 @@
 ---
 date:
-weight: 7
+nav_weight: 7
 title: Event Sourcing
 linkTitle: Event Sourcing
 series:

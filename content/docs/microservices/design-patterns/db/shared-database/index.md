@@ -1,6 +1,6 @@
 ---
 date:
-weight: 2
+nav_weight: 2
 title: Shared Database
 linkTitle: Shared Database
 series:
