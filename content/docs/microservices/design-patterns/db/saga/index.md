@@ -24,9 +24,10 @@ authors:
 
 ## What is the "Saga" design pattern? 
 
-- A saga is a sequence of transactions that spans many services. 
-- Each transaction updates the database and publishes a message (emits an event) to trigger the next transaction in the saga. 
-- If a transaction fails then the saga executes a series of compensating transactions that undo the changes that were made by the preceding transactions.
+- A saga is a sequence of transactions that updates each service and publishes a message or event to trigger the next transaction step. 
+- If a step fails, the saga executes compensating transactions that counteract the preceding transactions.
+
+A saga is a sequence of transactions that spans many services. Each transaction updates the database and publishes a message (emits an event) to trigger the next transaction in the saga. If a transaction fails then the saga executes a series of compensating transactions that undo the changes that were made by the preceding transactions.
 
 ## What are the benefits and drawbacks of the Saga Distributed Transactions?
 
@@ -41,3 +42,4 @@ The drawbacks of the "Saga Distributed Transactions" design pattern are:
 - There's a risk of cyclic dependency between saga participants because they have to consume each other's commands.
 - Integration testing is difficult because all services must be running to simulate a transaction.
 
+[Microsoft Azure](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga)
