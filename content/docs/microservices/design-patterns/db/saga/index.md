@@ -11,19 +11,24 @@ tags:
   - microservice
   - design pattern
   - database
+  - saga
 images:
 featured: false
 authors:
   - Fuad Efendi
 ---
 
-## What is the "Saga Distributed Transactions" design pattern? 
+**Saga:** 
+- a long story of heroic achievement, especially a medieval prose narrative in Old Norse or Old Icelandic.
+- a long, involved story, or **series of incidents**.
+
+## What is the "Saga" design pattern? 
 
 - A saga is a sequence of transactions that spans many services. 
 - Each transaction updates the database and publishes a message (emits an event) to trigger the next transaction in the saga. 
 - If a transaction fails then the saga executes a series of compensating transactions that undo the changes that were made by the preceding transactions.
 
-## What are the benefits and drawbacks of the "Saga Distributed Transactions"?
+## What are the benefits and drawbacks of the Saga Distributed Transactions?
 
 The benefits of the "Saga Distributed Transactions" design pattern are:
 - Good for simple workflows that require few participants and don't need a coordination logic.
