@@ -1,5 +1,5 @@
 baseURL: https://FuadEfendi.com/
-title: Fuad Efendi, Independent Consultant
+title: Fuad Efendi, Software Architect
 # Copyright, the {year} is the placeholder of this year.
 copyright: "Copyright © 2022-{year} [Fuad Efendi](https://fuadefendi.com), [Tokenizer Inc.](https://tokenizer.ca), [Hugo Modules](https://hugomods.com), and [Hugo Bootstrap Framework](https://hb.hugomods.com). All Rights Reserved."
 defaultContentLanguage: en
