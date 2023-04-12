@@ -7,6 +7,7 @@ tag:
 - Cloud distributed
 - Decoupling
 - Microservices
+type: docs
 ---
 
 ## Intent

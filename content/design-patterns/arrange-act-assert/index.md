@@ -5,6 +5,7 @@ categories:
 language: en
 tags:
   - Testing
+type: docs
 ---
 
 ## Also known as

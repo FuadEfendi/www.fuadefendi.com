@@ -6,6 +6,7 @@ language: en
 tags:
   - Performance
   - Reactive
+type: docs
 ---
 
 ## Intent

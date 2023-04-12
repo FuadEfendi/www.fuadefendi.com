@@ -7,6 +7,7 @@ tags:
   - Decoupling
   - Performance
   - Cloud distributed
+type: docs
 ---
 
 ## Intent

@@ -5,6 +5,7 @@ categories:
 language: en
 tags:
 - Data access
+type: docs
 ---
 
 ## Name / classification

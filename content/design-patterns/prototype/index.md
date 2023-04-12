@@ -6,6 +6,7 @@ language: en
 tags:
   - Gang Of Four
   - Instantiation
+type: docs
 ---
 
 ## Intent

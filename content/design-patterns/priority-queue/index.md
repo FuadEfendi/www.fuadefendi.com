@@ -6,6 +6,7 @@ language: en
 tags:
   - Decoupling
   - Cloud distributed
+type: docs
 ---
 
 ## Intent

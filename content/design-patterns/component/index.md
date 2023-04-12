@@ -5,6 +5,7 @@ language: en
 tag:
 - Game programming
 - Domain
+type: docs
 ---
 
 ## Intent

@@ -4,6 +4,7 @@ categories: Architectural
 language: en
 tags:
   - Data access
+type: docs
 ---
 
 

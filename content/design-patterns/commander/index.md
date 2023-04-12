@@ -5,6 +5,7 @@ categories:
 language: en
 tags:
   - Cloud distributed
+type: docs
 ---
 
 ## Intent

@@ -6,6 +6,7 @@ language: en
 tag:  
   - Performance
   - Game programming  
+type: docs
 ---  
   
 ## Intent  

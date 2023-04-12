@@ -5,6 +5,7 @@ categories:
 language: en
 tags:
   - Reactive
+type: docs
 ---
 
 ## Intent

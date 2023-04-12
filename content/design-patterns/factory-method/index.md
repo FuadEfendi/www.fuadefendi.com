@@ -6,6 +6,7 @@ language: en
 tags:
   - Extensibility
   - Gang of Four
+type: docs
 ---
 
 ## Also known as

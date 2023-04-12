@@ -6,6 +6,7 @@ language: en
 tags:
   - Decoupling
   - Encapsulation
+type: docs
 ---
 
 ## Intent

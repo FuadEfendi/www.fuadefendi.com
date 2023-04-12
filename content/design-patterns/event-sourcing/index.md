@@ -6,6 +6,7 @@ language: en
 tag:
   - Performance
   - Cloud distributed
+type: docs
 ---
 
 ## Intent

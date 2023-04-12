@@ -5,6 +5,7 @@ categories:
 language: en
 tags:
   - Instantiation
+type: docs
 ---
 
 ## Intent

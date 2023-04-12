@@ -6,6 +6,7 @@ language: en
 tags:
   - Gang Of Four
   - Reactive
+type: docs
 ---
 
 ## Also known as

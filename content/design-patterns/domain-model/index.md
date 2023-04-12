@@ -5,6 +5,7 @@ categories:
 language: en
 tags:
   - Domain
+type: docs
 ---
 
 ## Intent

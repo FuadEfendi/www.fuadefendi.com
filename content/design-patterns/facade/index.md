@@ -6,6 +6,7 @@ language: en
 tags:
   - Gang Of Four
   - Decoupling
+type: docs
 ---
 
 ## Intent

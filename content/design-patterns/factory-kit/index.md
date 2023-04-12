@@ -5,6 +5,7 @@ categories:
 language: en
 tags:
   - Extensibility
+type: docs
 ---
 ## Also Known As
 

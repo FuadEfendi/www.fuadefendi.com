@@ -5,6 +5,7 @@ categories:
 language: en
 tags:
   - Performance
+type: docs
 ---
 
 ## Also known as

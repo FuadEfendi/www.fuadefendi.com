@@ -5,6 +5,7 @@ categories:
 language: en
 tag:
 - Generic
+type: docs
 ---
 
 ## Name

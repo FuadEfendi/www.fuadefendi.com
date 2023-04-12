@@ -6,6 +6,7 @@ language: en
 tags:
   - Cloud distributed
   - Reactive
+type: docs
 ---
 
 ## Intent

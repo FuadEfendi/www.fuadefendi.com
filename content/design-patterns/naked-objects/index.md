@@ -7,6 +7,7 @@ tag:
 - Decoupling
 - Extensibility
 - Presentation
+type: docs
 ---
 
 ## Intent

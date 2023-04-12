@@ -5,6 +5,7 @@ categories:
 language: en
 tag:
 - Data access
+type: docs
 ---
 
 ## Intent

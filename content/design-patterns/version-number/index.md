@@ -6,6 +6,7 @@ language: en
 tags:
   - Data access
   - Microservices
+type: docs
 ---
 
 ## Name / classification

@@ -22,9 +22,6 @@ hb:
     home: # homepage settings.
       featured_posts: 5 # the number of the featured posts.
       main_sections: # leave it empty to include all regular pages.
-        - docs
-        - blog
-        - tutorials
     post_thumbnail: false
     giscus:
       repo: FuadEfendi/www.fuadefendi.com
@@ -32,6 +29,13 @@ hb:
       category_id: DIC_kwDOJUOolc4CVrAO
       mapping: 'og:title'
   docs:
+    date: [":git", "date", "publishDate", "lastmod"]
+    giscus:
+      repo: FuadEfendi/www.fuadefendi.com
+      repo_id: R_kgDOJUOolQ
+      category_id: DIC_kwDOJUOolc4CVrAO
+      mapping: 'og:title'
+  design-patterns:
     date: [":git", "date", "publishDate", "lastmod"]
     giscus:
       repo: FuadEfendi/www.fuadefendi.com

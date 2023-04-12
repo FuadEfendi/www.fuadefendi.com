@@ -6,6 +6,7 @@ language: en
 tag:
 - Enterprise Integration Pattern
 - Presentation
+type: docs
 ---
 
 ## Name

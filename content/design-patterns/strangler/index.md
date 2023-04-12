@@ -6,6 +6,7 @@ language: en
 tags:
   - Extensibility
   - Cloud distributed
+type: docs
 ---
 
 ## Intent

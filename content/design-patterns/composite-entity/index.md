@@ -5,6 +5,7 @@ categories:
 language: en
 tags:
   - Enterprise Integration Pattern
+type: docs
 ---
 
 ## Intent

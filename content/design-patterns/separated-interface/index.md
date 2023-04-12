@@ -5,6 +5,7 @@ categories:
 language: en
 tags:
   - Decoupling
+type: docs
 ---
 
 

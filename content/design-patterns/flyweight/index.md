@@ -6,6 +6,7 @@ language: en
 tags:
   - Gang of Four
   - Performance
+type: docs
 ---
 
 ## Intent

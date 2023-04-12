@@ -4,6 +4,7 @@ categories: Structural
 language: en
 tags:
 - Decoupling
+type: docs
 ---
 
 ## Name / classification

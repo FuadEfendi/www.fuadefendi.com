@@ -5,6 +5,7 @@ categories:
 language: en
 tags:
   - Gang of Four
+type: docs
 ---
 
 ## Intent

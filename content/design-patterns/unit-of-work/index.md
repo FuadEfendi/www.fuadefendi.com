@@ -6,6 +6,7 @@ language: en
 tags:
   - Data access
   - Performance
+type: docs
 ---
 
 ## Intent

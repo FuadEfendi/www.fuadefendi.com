@@ -6,6 +6,7 @@ language: en
 tags:
   - Game programming
   - Extensibility
+type: docs
 ---
 
 ## Intent

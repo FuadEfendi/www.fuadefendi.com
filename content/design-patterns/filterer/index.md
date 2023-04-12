@@ -5,6 +5,7 @@ categories:
   - Functional
 tags:
   - Extensibility
+type: docs
 ---
 
 ## Name / classification

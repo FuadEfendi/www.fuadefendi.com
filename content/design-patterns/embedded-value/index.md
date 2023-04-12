@@ -6,6 +6,7 @@ language: en
 tags:
   - Data Access
   - Enterprise Application Pattern
+type: docs
 ---
 
 ## Also known as

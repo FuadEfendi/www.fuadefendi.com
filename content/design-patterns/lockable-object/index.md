@@ -5,6 +5,7 @@ categories:
 language: en
 tag:
 - Performance
+type: docs
 ---
 
 

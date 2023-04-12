@@ -5,6 +5,7 @@ categories:
 language: en
 tags:
   - Game programming
+type: docs
 ---
 
 ## Intent

@@ -5,6 +5,7 @@ categories:
 language: en
 tag:
 - Microservices
+type: docs
 ---
 
 ## Intent
