@@ -1,5 +1,5 @@
 ---
-title: Articles
+title: Guides
 menu:
   main:
     weight: 1
