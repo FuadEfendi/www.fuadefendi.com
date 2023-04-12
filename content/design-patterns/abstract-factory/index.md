@@ -22,6 +22,7 @@ objects without specifying their concrete classes.
 Real-world example
 
 > To create a kingdom we need objects with a common theme. The elven kingdom needs an elven king, elven castle, and elven army whereas the orcish kingdom needs an orcish king, orcish castle, and orcish army. There is a dependency between the objects in the kingdom.
+> [The Elven Kingdom](https://www.worldanvil.com/w/belkora-stringman99/a/the-elven-kingdom-article)
 
 In plain words
 
