@@ -5,7 +5,7 @@ categories:
 language: en
 tags:
   - Performance
- - Game programming
+  - Game programming
 ---
 
 ## Intent

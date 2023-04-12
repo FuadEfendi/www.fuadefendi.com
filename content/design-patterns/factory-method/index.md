@@ -5,7 +5,7 @@ categories:
 language: en
 tags:
   - Extensibility
- - Gang of Four
+  - Gang of Four
 ---
 
 ## Also known as

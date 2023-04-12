@@ -5,7 +5,7 @@ categories:
 language: en
 tags:
   - Gang Of Four
- - Instantiation
+  - Instantiation
 ---
 
 ## Intent

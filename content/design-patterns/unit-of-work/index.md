@@ -5,7 +5,7 @@ categories:
 language: en
 tags:
   - Data access
- - Performance
+  - Performance
 ---
 
 ## Intent

@@ -5,7 +5,7 @@ categories:
 language: en
 tags:
   - Performance
- - Reactive
+  - Reactive
 ---
 
 ## Intent

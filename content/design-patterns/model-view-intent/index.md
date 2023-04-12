@@ -4,8 +4,8 @@ categories:
   - Architectural
 language: en
 tags:
- - Decoupling
- - Encapsulation
+  - Decoupling
+  - Encapsulation
 ---
 
 ## Intent

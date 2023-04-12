@@ -5,8 +5,8 @@ categories:
 language: en
 tags:
   - Decoupling
- - Performance
- - Cloud distributed
+  - Performance
+  - Cloud distributed
 ---
 
 ## Intent

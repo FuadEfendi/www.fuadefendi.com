@@ -5,7 +5,7 @@ categories:
 language: en
 tags:
   - Gang Of Four
- - Decoupling
+  - Decoupling
 ---
 
 ## Intent

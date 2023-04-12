@@ -5,7 +5,7 @@ categories:
 language: en
 tags:
   - Extensibility
- - Cloud distributed
+  - Cloud distributed
 ---
 
 ## Intent

@@ -5,7 +5,7 @@ categories:
 language: en
 tags:
   - Gang of Four
- - Performance
+  - Performance
 ---
 
 ## Intent

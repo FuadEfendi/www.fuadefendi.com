@@ -5,7 +5,7 @@ categories:
 language: en
 tags:
   - Cloud distributed
- - Reactive
+  - Reactive
 ---
 
 ## Intent

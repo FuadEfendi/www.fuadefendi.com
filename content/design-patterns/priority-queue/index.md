@@ -5,7 +5,7 @@ categories:
 language: en
 tags:
   - Decoupling
- - Cloud distributed
+  - Cloud distributed
 ---
 
 ## Intent

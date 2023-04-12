@@ -5,7 +5,7 @@ categories:
 language: en
 tags:
   - Performance
- - Cloud distributed
+  - Cloud distributed
 ---
 
 ## Intent

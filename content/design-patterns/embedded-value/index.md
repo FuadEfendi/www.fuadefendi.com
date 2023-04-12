@@ -5,7 +5,7 @@ categories:
 language: en
 tags:
   - Data Access
- - Enterprise Application Pattern
+  - Enterprise Application Pattern
 ---
 
 ## Also known as

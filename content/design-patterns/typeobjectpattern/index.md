@@ -5,7 +5,7 @@ categories:
 language: en
 tags:
   - Game programming
- - Extensibility
+  - Extensibility
 ---
 
 ## Intent

@@ -4,7 +4,7 @@ categories:
   - Behavioral
 language: en
 tag:  
- - Game programming
+  - Game programming
 ---  
   
 ## Intent  
