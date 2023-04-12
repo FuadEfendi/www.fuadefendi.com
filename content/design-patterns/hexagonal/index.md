@@ -1,9 +1,10 @@
 ---
 title: Hexagonal Architecture
-category: Architectural
+categories:
+  - Architectural
 language: en
-tag:
- - Decoupling
+tags:
+  - Decoupling
 ---
 
 ## Also known as

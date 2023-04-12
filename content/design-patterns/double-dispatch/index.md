@@ -1,9 +1,10 @@
 ---
 title: Double Dispatch
-category: Idiom
+categories:
+  - Idiom
 language: en
-tag:
- - Extensibility
+tags:
+  - Extensibility
 ---
 
 ## Intent

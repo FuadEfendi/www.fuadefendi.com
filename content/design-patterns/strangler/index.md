@@ -1,9 +1,10 @@
 ---
 title: Strangler
-category: Structural
+categories:
+  - Structural
 language: en
-tag:
- - Extensibility
+tags:
+  - Extensibility
  - Cloud distributed
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: Collection Pipeline
-category: Functional
+categories:
+  - Functional
 language: en
-tag:
- - Reactive
+tags:
+  - Reactive
 ---
 
 ## Intent

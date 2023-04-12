@@ -1,9 +1,10 @@
 ---
 title: Leader/Followers
-category: Concurrency
+categories:
+  - Concurrency
 language: en
-tag:
- - Performance
+tags:
+  - Performance
 ---
 
 ## Intent

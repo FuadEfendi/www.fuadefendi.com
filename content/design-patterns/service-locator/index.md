@@ -1,9 +1,10 @@
 ---
 title: Service Locator
-category: Architectural
+categories:
+  - Architectural
 language: en
-tag:
- - Game programming
+tags:
+  - Game programming
  - Performance
 ---
 

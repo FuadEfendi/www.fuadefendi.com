@@ -1,6 +1,7 @@
 ---
 title: Event Sourcing
-category: Architectural
+categories:
+  - Architectural
 language: en
 tag:
   - Performance

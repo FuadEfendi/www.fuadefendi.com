@@ -1,6 +1,7 @@
 ---
 title: Ambassador
-category: Structural
+categories:
+  - Structural
 language: en
 tag:
   - Decoupling

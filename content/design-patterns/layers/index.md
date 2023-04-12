@@ -1,9 +1,10 @@
 ---
 title: Layers
-category: Architectural
+categories:
+  - Architectural
 language: en
-tag:
- - Decoupling
+tags:
+  - Decoupling
 ---
 
 ## Intent

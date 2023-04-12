@@ -1,6 +1,7 @@
 ---
 title: Client Session Pattern
-category: Architectural
+categories:
+  - Architectural
 language: en
 tags:
 - Decoupling

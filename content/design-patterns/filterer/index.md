@@ -1,9 +1,10 @@
 ---
 title: Filterer
 language: en
-category: Functional
-tag:
- - Extensibility
+categories:
+  - Functional
+tags:
+  - Extensibility
 ---
 
 ## Name / classification

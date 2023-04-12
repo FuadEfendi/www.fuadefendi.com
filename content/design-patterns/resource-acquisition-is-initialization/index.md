@@ -1,9 +1,10 @@
 ---
 title: Resource Acquisition Is Initialization
-category: Idiom
+categories:
+  - Idiom
 language: en
-tag:
- - Data access
+tags:
+  - Data access
 ---
 
 ## Intent

@@ -1,6 +1,7 @@
 ---
 title: Model-View-Intent
-category: Architectural
+categories:
+  - Architectural
 language: en
 tags:
  - Decoupling

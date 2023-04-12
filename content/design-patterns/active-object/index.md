@@ -1,9 +1,10 @@
 ---
 title: Active Object
-category: Concurrency
+categories:
+  - Concurrency
 language: en
-tag:
- - Performance
+tags:
+  - Performance
 ---
 
 

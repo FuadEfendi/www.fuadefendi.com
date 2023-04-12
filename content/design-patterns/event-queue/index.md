@@ -1,9 +1,10 @@
 ---
 title: Event Queue
-category: Concurrency
+categories:
+  - Concurrency
 language: en
-tag:
- - Game programming
+tags:
+  - Game programming
 ---
 
 ## Intent

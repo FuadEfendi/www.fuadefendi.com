@@ -1,9 +1,10 @@
 ---
 title: Memento
-category: Behavioral
+categories:
+  - Behavioral
 language: en
-tag:
- - Gang of Four
+tags:
+  - Gang of Four
 ---
 
 ## Also known as

@@ -1,9 +1,10 @@
 ---
 title: Business Delegate
-category: Structural
+categories:
+  - Structural
 language: en
-tag:
- - Decoupling
+tags:
+  - Decoupling
 ---
 
 ## Intent

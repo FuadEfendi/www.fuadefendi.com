@@ -1,9 +1,10 @@
 ---
 title: Adapter
-category: Structural
+categories:
+  - Structural
 language: en
-tag:
- - Gang of Four
+tags:
+  - Gang of Four
 ---
 
 ## Also known as

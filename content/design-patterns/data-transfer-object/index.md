@@ -1,9 +1,10 @@
 ---
 title: Data Transfer Object
-category: Architectural
+categories:
+  - Architectural
 language: en
-tag:
- - Performance
+tags:
+  - Performance
 ---
 
 ## Intent

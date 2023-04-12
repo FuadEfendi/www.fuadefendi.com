@@ -1,9 +1,10 @@
 ---
 title: Delegation
-category: Structural
+categories:
+  - Structural
 language: en
-tag:
- - Decoupling
+tags:
+  - Decoupling
 ---
 
 ## Also known as

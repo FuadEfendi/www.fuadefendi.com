@@ -1,9 +1,10 @@
 ---
 title: Facade
-category: Structural
+categories:
+  - Structural
 language: en
-tag:
- - Gang Of Four
+tags:
+  - Gang Of Four
  - Decoupling
 ---
 

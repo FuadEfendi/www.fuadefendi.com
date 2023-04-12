@@ -1,9 +1,10 @@
 ---
 title: Converter
-category: Creational
+categories:
+  - Creational
 language: en
-tag:
- - Decoupling
+tags:
+  - Decoupling
 ---
 
 ## Intent

@@ -1,6 +1,7 @@
 ---
 title: API Gateway
-category: Architectural
+categories:
+  - Architectural
 language: en
 tag:
   - Cloud distributed

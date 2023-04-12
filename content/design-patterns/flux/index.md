@@ -1,9 +1,10 @@
 ---
 title: Flux
-category: Structural
+categories:
+  - Structural
 language: en
-tag:
- - Decoupling
+tags:
+  - Decoupling
 ---
 
 ## Intent

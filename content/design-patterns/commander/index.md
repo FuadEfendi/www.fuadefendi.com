@@ -1,9 +1,10 @@
 ---
 title: Commander
-category: Concurrency
+categories:
+  - Concurrency
 language: en
-tag:
- - Cloud distributed
+tags:
+  - Cloud distributed
 ---
 
 ## Intent

@@ -1,9 +1,10 @@
 ---
 title: Saga
-category: Concurrency
+categories:
+  - Concurrency
 language: en
-tag:
- - Cloud distributed
+tags:
+  - Cloud distributed
 ---
 
 ## Also known as

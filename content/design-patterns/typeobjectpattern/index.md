@@ -1,9 +1,10 @@
 ---
 title: Type-Object
-category: Behavioral
+categories:
+  - Behavioral
 language: en
-tag:
- - Game programming
+tags:
+  - Game programming
  - Extensibility
 ---
 

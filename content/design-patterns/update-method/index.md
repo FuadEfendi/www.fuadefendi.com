@@ -1,6 +1,7 @@
 ---  
 title: Update Method
-category: Behavioral
+categories:
+  - Behavioral
 language: en
 tag:  
  - Game programming

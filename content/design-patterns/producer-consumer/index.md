@@ -1,9 +1,10 @@
 ---
 title: Producer Consumer
-category: Concurrency
+categories:
+  - Concurrency
 language: en
-tag:
- - Reactive
+tags:
+  - Reactive
 ---
 
 ## Intent

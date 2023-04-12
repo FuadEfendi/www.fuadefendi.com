@@ -1,9 +1,10 @@
 ---
 title: Data Access Object
-category: Architectural
+categories:
+  - Architectural
 language: en
-tag:
- - Data access
+tags:
+  - Data access
 ---
 
 ## Intent

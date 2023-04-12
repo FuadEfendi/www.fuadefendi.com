@@ -1,9 +1,10 @@
 ---
 title: Marker Interface
-category: Structural
+categories:
+  - Structural
 language: en
-tag:
- - Decoupling
+tags:
+  - Decoupling
 ---
 
 ## Intent

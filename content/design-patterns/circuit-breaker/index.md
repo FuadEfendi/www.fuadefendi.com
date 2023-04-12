@@ -1,6 +1,7 @@
 ---
 title: Circuit Breaker
-category: Behavioral
+categories:
+  - Behavioral
 language: en
 tag:
   - Performance

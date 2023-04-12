@@ -1,9 +1,10 @@
 ---
 title: Intercepting Filter
-category: Behavioral
+categories:
+  - Behavioral
 language: en
-tag:
- - Decoupling
+tags:
+  - Decoupling
 ---
 
 ## Intent

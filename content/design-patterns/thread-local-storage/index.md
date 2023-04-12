@@ -1,6 +1,7 @@
 ---
 title: Thread-local storage
-category: Concurrency
+categories:
+  - Concurrency
 language: en
 tag:
 - Data access

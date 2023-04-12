@@ -1,6 +1,7 @@
 ---
 title: Service to Worker
-category: Architectural
+categories:
+  - Architectural
 language: en
 tag:
 - Decoupling

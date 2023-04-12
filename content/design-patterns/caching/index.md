@@ -1,6 +1,7 @@
 ---
 title: Caching
-category: Behavioral
+categories:
+  - Behavioral
 language: en
 tag:
   - Performance

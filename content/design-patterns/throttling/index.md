@@ -1,9 +1,10 @@
 ---
 title: Throttling
-category: Behavioral
+categories:
+  - Behavioral
 language: en
-tag:
- - Performance
+tags:
+  - Performance
  - Cloud distributed
 ---
 

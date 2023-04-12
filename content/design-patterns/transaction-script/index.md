@@ -1,9 +1,10 @@
 ---
 title: Transaction Script
-category: Behavioral
+categories:
+  - Behavioral
 language: en
-tag:
- - Data access
+tags:
+  - Data access
 ---
 
 ## Intent

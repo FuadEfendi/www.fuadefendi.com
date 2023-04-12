@@ -1,6 +1,7 @@
 ---
 title: CQRS
-category: Architectural
+categories:
+  - Architectural
 language: en
 tag:
   - Performance

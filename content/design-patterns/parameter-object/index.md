@@ -1,9 +1,10 @@
 ---
 title: Parameter Object
-category: Behavioral
+categories:
+  - Behavioral
 language: en
-tag:
- - Extensibility
+tags:
+  - Extensibility
 ---
 
 ## Intent

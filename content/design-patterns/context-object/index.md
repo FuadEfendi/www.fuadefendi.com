@@ -1,6 +1,7 @@
 ---
 title: Context object
-category: Creational
+categories:
+  - Creational
 language: en
 tags:
 - Data access

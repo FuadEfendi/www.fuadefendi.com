@@ -1,9 +1,10 @@
 ---
 title: Poison Pill
-category: Behavioral
+categories:
+  - Behavioral
 language: en
-tag:
- - Cloud distributed
+tags:
+  - Cloud distributed
  - Reactive
 ---
 

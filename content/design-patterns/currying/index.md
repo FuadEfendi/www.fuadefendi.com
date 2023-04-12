@@ -1,6 +1,7 @@
 ---
 title: Currying
-category: Functional 
+categories:
+  - Functional 
 language: en
 tag:
 - Decoupling

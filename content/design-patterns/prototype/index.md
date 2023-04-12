@@ -1,9 +1,10 @@
 ---
 title: Prototype
-category: Creational
+categories:
+  - Creational
 language: en
-tag: 
- - Gang Of Four
+tags:
+  - Gang Of Four
  - Instantiation
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: Metadata Mapping
-category: Architectural
+categories:
+  - Architectural
 language: en
-tag:
- - Data access
+tags:
+  - Data access
 ---
 
 ## Intent

@@ -1,9 +1,10 @@
 ---
 title: Twin
-category: Structural
+categories:
+  - Structural
 language: en
-tag:
- - Extensibility
+tags:
+  - Extensibility
 ---
 
 ## Intent

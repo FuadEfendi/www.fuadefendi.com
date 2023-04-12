@@ -1,9 +1,10 @@
 ---
 title: Master-Worker
-category: Concurrency
+categories:
+  - Concurrency
 language: en
-tag:
- - Performance
+tags:
+  - Performance
 ---
 
 ## Also known as

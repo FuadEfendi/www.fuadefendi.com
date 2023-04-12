@@ -2,8 +2,8 @@
 title: Serialized Entity Pattern
 categories: Architectural
 language: en
-tag:
- - Data access
+tags:
+  - Data access
 ---
 
 

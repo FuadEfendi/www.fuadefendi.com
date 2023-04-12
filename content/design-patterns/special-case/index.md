@@ -1,9 +1,10 @@
 ---
 title: Special Case
-category: Behavioral
+categories:
+  - Behavioral
 language: en
-tag:
- - Extensibility
+tags:
+  - Extensibility
 ---
 
 ## Intent

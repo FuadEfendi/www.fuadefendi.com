@@ -1,9 +1,10 @@
 ---
 title: Object Pool
-category: Creational
+categories:
+  - Creational
 language: en
-tag:
- - Game programming
+tags:
+  - Game programming
  - Performance
 ---
 

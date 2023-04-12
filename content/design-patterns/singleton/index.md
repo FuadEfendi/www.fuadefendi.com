@@ -1,9 +1,10 @@
 ---
 title: Singleton
-category: Creational
+categories:
+  - Creational
 language: en
-tag:
- - Gang of Four
+tags:
+  - Gang of Four
 ---
 
 ## Intent

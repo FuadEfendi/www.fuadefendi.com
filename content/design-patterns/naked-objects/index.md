@@ -1,6 +1,7 @@
 ---
 title: Naked Objects
-category: Architectural
+categories:
+  - Architectural
 language: en
 tag:
 - Decoupling

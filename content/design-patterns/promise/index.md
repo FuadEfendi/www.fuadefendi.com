@@ -1,9 +1,10 @@
 ---
 title: Promise
-category: Concurrency
+categories:
+  - Concurrency
 language: en
-tag:
- - Reactive
+tags:
+  - Reactive
 ---
 
 ## Also known as

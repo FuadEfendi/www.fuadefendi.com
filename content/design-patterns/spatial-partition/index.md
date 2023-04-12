@@ -1,9 +1,10 @@
 ---
 title: Spatial Partition
-category: Behavioral
+categories:
+  - Behavioral
 language: en
-tag:
- - Performance
+tags:
+  - Performance
  - Game programming
 ---
 

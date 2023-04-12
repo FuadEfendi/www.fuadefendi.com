@@ -1,9 +1,10 @@
 ---
 title: Service Layer
-category: Architectural
+categories:
+  - Architectural
 language: en
-tag:
- - Data access
+tags:
+  - Data access
 ---
 
 ## Intent

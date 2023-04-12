@@ -1,9 +1,10 @@
 ---
 title: Execute Around
-category: Idiom
+categories:
+  - Idiom
 language: en
-tag:
- - Extensibility
+tags:
+  - Extensibility
 ---
 
 ## Intent

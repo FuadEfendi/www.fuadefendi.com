@@ -1,9 +1,10 @@
 ---
 title: Presentation Model
-category: Behavioral
+categories:
+  - Behavioral
 language: en
-tag:
- - Decoupling
+tags:
+  - Decoupling
 ---
 
 ## Also known as

@@ -1,9 +1,10 @@
 ---
 title: Specification
-category: Behavioral
+categories:
+  - Behavioral
 language: en
-tag:
- - Data access
+tags:
+  - Data access
 ---
 
 ## Also known as

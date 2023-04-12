@@ -1,6 +1,7 @@
 ---
 title: Data Mapper
-category: Architectural
+categories:
+  - Architectural
 language: en
 tag:
 - Decoupling

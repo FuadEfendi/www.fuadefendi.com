@@ -1,6 +1,7 @@
 ---
 title: Fan-Out/Fan-In
-category: Integration
+categories:
+  - Integration
 language: en
 tag:
 - Microservices

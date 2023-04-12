@@ -1,9 +1,10 @@
 ---
 title: Model-View-Controller
-category: Architectural
+categories:
+  - Architectural
 language: en
-tag:
- - Decoupling
+tags:
+  - Decoupling
 ---
 
 ## Intent

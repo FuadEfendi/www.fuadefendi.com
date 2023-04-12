@@ -1,9 +1,10 @@
 ---
 title: Acyclic Visitor
-category: Behavioral
+categories:
+  - Behavioral
 language: en
-tag:
- - Extensibility
+tags:
+  - Extensibility
 ---
 
 ## Intent

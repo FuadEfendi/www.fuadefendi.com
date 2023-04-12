@@ -1,9 +1,10 @@
 ---
 title: Event Driven Architecture
-category: Architectural
+categories:
+  - Architectural
 language: en
-tag:
- - Reactive
+tags:
+  - Reactive
 ---
 
 ## Intent

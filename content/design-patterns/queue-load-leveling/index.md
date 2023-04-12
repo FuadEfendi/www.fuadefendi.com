@@ -1,9 +1,10 @@
 ---
 title: Queue based load leveling
-category: Concurrency
+categories:
+  - Concurrency
 language: en
-tag:
- - Decoupling
+tags:
+  - Decoupling
  - Performance
  - Cloud distributed
 ---

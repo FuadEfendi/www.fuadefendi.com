@@ -1,9 +1,10 @@
 ---
 title: Mute Idiom
-category: Idiom
+categories:
+  - Idiom
 language: en
-tag: 
- - Decoupling
+tags:
+  - Decoupling
 ---
 
 ## Intent

@@ -1,9 +1,10 @@
 ---
 title: Event Aggregator
-category: Structural
+categories:
+  - Structural
 language: en
-tag:
- - Reactive
+tags:
+  - Reactive
 ---
 
 ## Name

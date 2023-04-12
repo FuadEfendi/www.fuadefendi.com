@@ -1,9 +1,10 @@
 ---
 title: Trampoline
-category: Behavioral
+categories:
+  - Behavioral
 language: en
-tag:
- - Performance
+tags:
+  - Performance
 ---
 
 ## Intent

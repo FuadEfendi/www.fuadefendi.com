@@ -1,9 +1,10 @@
 ---
 title: Tolerant Reader
-category: Integration
+categories:
+  - Integration
 language: en
-tag:
- - Decoupling
+tags:
+  - Decoupling
 ---
 
 ## Intent

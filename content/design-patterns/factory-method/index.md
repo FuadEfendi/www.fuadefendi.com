@@ -1,9 +1,10 @@
 ---
 title: Factory Method
-category: Creational
+categories:
+  - Creational
 language: en
-tag:
- - Extensibility
+tags:
+  - Extensibility
  - Gang of Four
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: Lazy Loading
-category: Idiom
+categories:
+  - Idiom
 language: en
-tag:
- - Performance
+tags:
+  - Performance
 ---
 
 ## Intent

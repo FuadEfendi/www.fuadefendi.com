@@ -1,9 +1,10 @@
 ---
 title: Combinator
-category: Idiom
+categories:
+  - Idiom
 language: en
-tag:
- - Reactive
+tags:
+  - Reactive
 ---
 
 ## Also known as

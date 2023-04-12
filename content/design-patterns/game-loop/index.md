@@ -1,6 +1,7 @@
 ---  
 title: Game Loop 
-category: Behavioral
+categories:
+  - Behavioral
 language: en
 tag:  
  - Game programming

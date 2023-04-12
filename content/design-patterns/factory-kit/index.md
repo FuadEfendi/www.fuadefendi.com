@@ -1,9 +1,10 @@
 ---
 title: Factory Kit
-category: Creational
+categories:
+  - Creational
 language: en
-tag:
- - Extensibility
+tags:
+  - Extensibility
 ---
 ## Also Known As
 

@@ -1,9 +1,10 @@
 ---
 title: Version Number
-category: Concurrency
+categories:
+  - Concurrency
 language: en
-tag:
- - Data access
+tags:
+  - Data access
  - Microservices
 ---
 

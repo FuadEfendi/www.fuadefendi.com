@@ -1,9 +1,10 @@
 ---
 title: Table Module
-category: Structural
+categories:
+  - Structural
 language: en
-tag:
- - Data access
+tags:
+  - Data access
 ---
 
 ## Intent

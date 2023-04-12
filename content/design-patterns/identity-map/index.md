@@ -1,6 +1,7 @@
 ---
 title: Identity Map
-category: Behavioral
+categories:
+  - Behavioral
 language: en
 tag:
 - Performance

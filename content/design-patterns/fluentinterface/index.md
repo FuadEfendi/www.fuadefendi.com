@@ -1,9 +1,10 @@
 ---
 title: Fluent Interface
-category: Functional
+categories:
+  - Functional
 language: en
-tag: 
- - Reactive
+tags:
+  - Reactive
 ---
 
 ## Intent

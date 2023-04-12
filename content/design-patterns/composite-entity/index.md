@@ -1,9 +1,10 @@
 ---
 title: Composite Entity
-category: Structural
+categories:
+  - Structural
 language: en
-tag:
- - Enterprise Integration Pattern
+tags:
+  - Enterprise Integration Pattern
 ---
 
 ## Intent

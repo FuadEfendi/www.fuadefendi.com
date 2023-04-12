@@ -1,9 +1,10 @@
 ---
 title: Private Class Data
-category: Idiom
+categories:
+  - Idiom
 language: en
-tag:
- - Data access
+tags:
+  - Data access
 ---
 
 ## Intent

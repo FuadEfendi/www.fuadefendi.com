@@ -1,6 +1,7 @@
 ---
 title: Collecting Parameter 
-category: Idiom
+categories:
+  - Idiom
 language: en
 tag:
 - Generic

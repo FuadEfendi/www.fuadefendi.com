@@ -1,9 +1,10 @@
 ---
 title: Front Controller
-category: Structural
+categories:
+  - Structural
 language: en
-tag:
- - Decoupling
+tags:
+  - Decoupling
 ---
 
 ## Intent

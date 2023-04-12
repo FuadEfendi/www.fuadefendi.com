@@ -1,9 +1,10 @@
 ---
 title: Double Checked Locking
-category: Idiom
+categories:
+  - Idiom
 language: en
-tag:
- - Performance
+tags:
+  - Performance
 ---
 
 ## Intent

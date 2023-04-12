@@ -1,9 +1,10 @@
 ---
 title: Embedded Value
-category: Structural 
+categories:
+  - Structural 
 language: en
-tag: 
- - Data Access
+tags:
+  - Data Access
  - Enterprise Application Pattern
 ---
 

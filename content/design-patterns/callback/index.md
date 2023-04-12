@@ -1,9 +1,10 @@
 ---
 title: Callback
-category: Idiom
+categories:
+  - Idiom
 language: en
-tag:
- - Reactive
+tags:
+  - Reactive
 ---
 
 ## Intent

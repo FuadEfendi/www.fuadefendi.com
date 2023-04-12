@@ -1,9 +1,10 @@
 ---
 title: Half-Sync/Half-Async
-category: Concurrency
+categories:
+  - Concurrency
 language: en
-tag:
- - Performance
+tags:
+  - Performance
 ---
 
 ## Intent

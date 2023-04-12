@@ -1,9 +1,10 @@
 ---
 title: Property
-category: Creational
+categories:
+  - Creational
 language: en
-tag:
- - Instantiation
+tags:
+  - Instantiation
 ---
 
 ## Intent

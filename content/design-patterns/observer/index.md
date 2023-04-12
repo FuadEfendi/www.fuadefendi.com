@@ -1,9 +1,10 @@
 ---
 title: Observer
-category: Behavioral
+categories:
+  - Behavioral
 language: en
-tag:
- - Gang Of Four
+tags:
+  - Gang Of Four
  - Reactive
 ---
 

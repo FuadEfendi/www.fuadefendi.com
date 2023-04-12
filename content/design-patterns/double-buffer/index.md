@@ -1,6 +1,7 @@
 ---  
 title: Double Buffer 
-category: Behavioral
+categories:
+  - Behavioral
 language: en
 tag:  
  - Performance

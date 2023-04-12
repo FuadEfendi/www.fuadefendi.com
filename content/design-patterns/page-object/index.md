@@ -1,6 +1,7 @@
 ---
 title: Page Object
-category: Structural
+categories:
+  - Structural
 language: en
 tag:
 - Decoupling

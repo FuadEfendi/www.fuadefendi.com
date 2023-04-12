@@ -1,9 +1,10 @@
 ---
 title: Guarded Suspension
-category: Concurrency
+categories:
+  - Concurrency
 language: en
-tag:
- - Decoupling
+tags:
+  - Decoupling
 ---
 
 ## Intent

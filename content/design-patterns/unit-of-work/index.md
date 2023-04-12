@@ -1,9 +1,10 @@
 ---
 title: Unit Of Work
-category: Architectural
+categories:
+  - Architectural
 language: en
-tag:
- - Data access
+tags:
+  - Data access
  - Performance
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: Feature Toggle
-category: Behavioral
+categories:
+  - Behavioral
 language: en
-tag:
- - Extensibility
+tags:
+  - Extensibility
 ---
 
 ## Also known as

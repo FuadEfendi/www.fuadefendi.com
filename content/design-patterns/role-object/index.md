@@ -1,9 +1,10 @@
 ---
 title: Role Object
-category: Structural
+categories:
+  - Structural
 language: en
-tag:
- - Extensibility
+tags:
+  - Extensibility
 ---
 
 ## Also known as

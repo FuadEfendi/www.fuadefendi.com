@@ -1,9 +1,10 @@
 ---
 title: Object Mother
-category: Creational
+categories:
+  - Creational
 language: en
-tag:
- - Instantiation
+tags:
+  - Instantiation
 ---
 
 ## Object Mother

@@ -1,9 +1,10 @@
 ---
 title: Domain Model
-category: Architectural
+categories:
+  - Architectural
 language: en
-tag:
- - Domain
+tags:
+  - Domain
 ---
 
 ## Intent
