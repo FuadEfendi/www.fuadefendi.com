@@ -24,7 +24,7 @@ and user events are submitted in the form of an Intent.
 * [Stateful Android Apps With MVI (MODEL — VIEW — INTENT)](https://medium.com/huawei-developers/stateful-android-apps-with-mvi-architecture-model-view-intent-d106b09bd967)
 
 ## Class diagram
-![alt text](./etc/model-view-intent.png "Model-View-Intent")
+![alt text](etc/model-view-intent.png "Model-View-Intent")
 
 **Programmatic Example**
 

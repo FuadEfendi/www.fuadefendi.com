@@ -139,7 +139,7 @@ Pool available=0 inUse=3
 
 ## Class diagram
 
-![alt text](./etc/object-pool.png "Object Pool")
+![alt text](etc/object-pool.png "Object Pool")
 
 ## Applicability
 

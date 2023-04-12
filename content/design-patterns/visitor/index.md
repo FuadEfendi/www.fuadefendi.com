@@ -203,7 +203,7 @@ Good to see you commander
 
 ## Class diagram
 
-![alt text](./etc/visitor_1.png "Visitor")
+![alt text](etc/visitor_1.png "Visitor")
 
 ## Applicability
 

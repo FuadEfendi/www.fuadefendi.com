@@ -207,7 +207,7 @@ An excerpt from the example's console output:
 
 ## Class diagram
 
-![alt text](./etc/throttling_urm.png "Throttling pattern class diagram")
+![alt text](etc/throttling_urm.png "Throttling pattern class diagram")
 
 ## Applicability
 

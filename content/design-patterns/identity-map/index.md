@@ -188,7 +188,7 @@ public class IdNotFoundException extends RuntimeException {
 ```
 ## Class diagram
 
-![alt text](./etc/IdentityMap.png "Identity Map Pattern")
+![alt text](etc/IdentityMap.png "Identity Map Pattern")
 
 ## Applicability
 

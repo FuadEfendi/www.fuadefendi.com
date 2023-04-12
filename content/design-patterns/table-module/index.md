@@ -113,7 +113,7 @@ The program output:
 
 ## Class diagram
 
-![](./etc/table-module.urm.png "table module")
+![](etc/table-module.urm.png "table module")
 
 ## Applicability
 

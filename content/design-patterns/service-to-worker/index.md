@@ -107,7 +107,7 @@ Therefore, this example leverages the Service to Worker pattern to increase func
 
 
 ## Class diagram
-![alt text](./etc/service-to-worker.png "Service to Worker")
+![alt text](etc/service-to-worker.png "Service to Worker")
 
 ## Applicability
 - For the business logic of web development, the responsibility of a dispatcher component may be to translate the logical name login into the resource name of an appropriate view, such as login.jsp, and dispatch to that view. To accomplish this translation, the dispatcher may access resources such as an XML configuration file that specifies the appropriate view to display.

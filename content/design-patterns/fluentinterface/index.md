@@ -154,7 +154,7 @@ Last amongst first two negatives: -22
 
 ## Class diagram
 
-![Fluent Interface](./etc/fluentinterface.png "Fluent Interface")
+![Fluent Interface](etc/fluentinterface.png "Fluent Interface")
 
 ## Applicability
 

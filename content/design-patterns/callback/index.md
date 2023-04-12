@@ -73,7 +73,7 @@ Finally, here's how we execute a task and receive a callback when it's finished.
 
 ## Class diagram
 
-![alt text](./etc/callback.png "Callback")
+![alt text](etc/callback.png "Callback")
 
 ## Applicability
 

@@ -141,7 +141,7 @@ public class GiantController {
 ```
 
 ## Class diagram
-![alt text](./etc/model-view-controller.png "Model-View-Controller")
+![alt text](etc/model-view-controller.png "Model-View-Controller")
 
 ## Applicability
 Use the Model-View-Controller pattern when

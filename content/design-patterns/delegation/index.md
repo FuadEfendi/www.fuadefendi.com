@@ -107,7 +107,7 @@ Epson Printer : hello world
 ```
 
 ## Class diagram
-![alt text](./etc/delegation.png "Delegate")
+![alt text](etc/delegation.png "Delegate")
 
 ## Applicability
 Use the Delegate pattern in order to achieve the following

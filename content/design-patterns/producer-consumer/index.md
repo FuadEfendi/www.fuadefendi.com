@@ -122,7 +122,7 @@ for (var i = 0; i < 3; i++) {
 
 
 ## Class diagram
-![alt text](./etc/producer-consumer.png "Producer Consumer")
+![alt text](etc/producer-consumer.png "Producer Consumer")
 
 ## Applicability
 Use the Producer Consumer idiom when

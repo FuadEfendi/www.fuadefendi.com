@@ -93,7 +93,7 @@ public boolean insertOrder(Order order) throws Exception {
 ```
 
 ## Class diagram
-![alt text](./etc/embedded-value.urm.png "Embedded value class diagram")
+![alt text](etc/embedded-value.urm.png "Embedded value class diagram")
 
 ## Applicability
 

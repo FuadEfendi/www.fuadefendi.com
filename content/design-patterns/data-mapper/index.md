@@ -173,7 +173,7 @@ Wikipedia says
 Programmatic example
 
 ## Class diagram
-![alt text](./etc/data-mapper.png "Data Mapper")
+![alt text](etc/data-mapper.png "Data Mapper")
 
 ## Applicability
 Use the Data Mapper in any of the following situations

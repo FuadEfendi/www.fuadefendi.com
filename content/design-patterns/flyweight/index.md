@@ -182,7 +182,7 @@ You feel blessed. (Potion=991505714)
 
 ## Class diagram
 
-![alt text](./etc/flyweight.urm.png "Flyweight pattern class diagram")
+![alt text](etc/flyweight.urm.png "Flyweight pattern class diagram")
 
 ## Applicability
 

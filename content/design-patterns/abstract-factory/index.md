@@ -180,7 +180,7 @@ public static class FactoryMaker {
 
 ## Class diagram
 
-![alt text](./etc/abstract-factory.urm.png "Abstract Factory class diagram")
+![alt text](etc/abstract-factory.urm.png "Abstract Factory class diagram")
 
 
 ## Applicability

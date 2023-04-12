@@ -125,7 +125,7 @@ Program output:
 
 ## Class diagram
 
-![alt text](./etc/acyclic-visitor.png "Acyclic Visitor")
+![alt text](etc/acyclic-visitor.png "Acyclic Visitor")
 
 ## Applicability
 

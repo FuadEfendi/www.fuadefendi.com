@@ -204,7 +204,7 @@ ProbabilisticThreatAwareSystem filtered = simpleProbabilisticThreatAwareSystem.f
 
 ## Class diagram
 
-![Filterer](./etc/filterer.png "Filterer")
+![Filterer](etc/filterer.png "Filterer")
 
 ## Applicability
 

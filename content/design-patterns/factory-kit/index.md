@@ -105,7 +105,7 @@ Here is the console output when the example is run.
 
 ## Class diagram
 
-![alt text](./etc/factory-kit.png "Factory Kit")
+![alt text](etc/factory-kit.png "Factory Kit")
 
 ## Applicability
 

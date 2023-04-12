@@ -118,7 +118,7 @@ class.
 
 ## Class diagram
 
-![alt text](./etc/class_diagram.png "Separated Interface")
+![alt text](etc/class_diagram.png "Separated Interface")
 
 ## Applicability
 

@@ -13,7 +13,7 @@ type: docs
 CQRS Command Query Responsibility Segregation - Separate the query side from the command side.
 
 ## Class diagram
-![alt text](./etc/cqrs.png "CQRS")
+![alt text](etc/cqrs.png "CQRS")
 
 ## Applicability
 Use the CQRS pattern when

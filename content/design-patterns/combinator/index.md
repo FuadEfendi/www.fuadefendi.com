@@ -183,7 +183,7 @@ Now we can design our app to with the queries finding feature `expandedFinder`, 
 
 
 ## Class diagram
-![alt text](./etc/combinator.urm.png "Combinator class diagram")
+![alt text](etc/combinator.urm.png "Combinator class diagram")
 
 ## Applicability
 Use the combinator pattern when:

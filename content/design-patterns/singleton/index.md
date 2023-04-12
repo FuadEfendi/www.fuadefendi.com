@@ -59,7 +59,7 @@ enumIvoryTower2=com.iluwatar.singleton.EnumIvoryTower@1221555852
 
 ## Class diagram
 
-![alt text](./etc/singleton.urm.png "Singleton pattern class diagram")
+![alt text](etc/singleton.urm.png "Singleton pattern class diagram")
 
 ## Applicability
 

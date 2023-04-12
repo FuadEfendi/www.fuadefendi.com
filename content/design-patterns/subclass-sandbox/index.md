@@ -98,7 +98,7 @@ Program output:
 // Spawn 20 particle with type GROUNDDIVE_PARTICLE
 ```
 ## Class diagram
-![alt text](./etc/subclass-sandbox.urm.png "Subclass Sandbox pattern class diagram")
+![alt text](etc/subclass-sandbox.urm.png "Subclass Sandbox pattern class diagram")
   
 ## Applicability  
 The Subclass Sandbox pattern is a very simple, common pattern lurking in lots of codebases, even outside of games. If you have a non-virtual protected method laying around, you’re probably already using something like this. Subclass Sandbox is a good fit when:

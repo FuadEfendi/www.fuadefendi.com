@@ -101,7 +101,7 @@ public class SquareNumberRequest {
 ```
 
 ## Class diagram
-![alt-text](./etc/fanout-fanin.png)
+![alt-text](etc/fanout-fanin.png)
 
 ## Applicability
 

@@ -127,7 +127,7 @@ public class ParameterObject {
 
 ## Class diagram
 
-![alt text](./etc/parameter-object.png "Parameter Object")
+![alt text](etc/parameter-object.png "Parameter Object")
 
 ## Applicability
 

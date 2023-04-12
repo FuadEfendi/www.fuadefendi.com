@@ -149,7 +149,7 @@ Thus, the data bus outputs as follows:
 Evidently, due to MessageCollectorMembers only accepting messages of type MessageData and none of either StartingData nor StoppingData, the MessageCollectorMembers are prevented from seeing what the StatusMembers (the event administrators or organisers) are shown: information on the time whenever a new advertisement is sent to all members.
  
 ## Class diagram
-![data bus pattern uml diagram](./etc/data-bus.urm.png "Data Bus pattern")
+![data bus pattern uml diagram](etc/data-bus.urm.png "Data Bus pattern")
 
 ## Applicability
 Use Data Bus pattern when

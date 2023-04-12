@@ -14,7 +14,7 @@ threads can efficiently de-multiplex events and dispatch event handlers
 that process I/O handles shared by the threads.
 
 ## Class diagram
-![Leader/Followers class diagram](./etc/leader-followers.png)
+![Leader/Followers class diagram](etc/leader-followers.png)
 
 ## Applicability
 Use Leader-Followers pattern when

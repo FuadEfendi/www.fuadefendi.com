@@ -158,7 +158,7 @@ the collecting parameter as per the policy. The elements of the `result` variabl
 which is what we expected.
 
 ## Class diagram
-![alt text](./etc/collecting-parameter.urm.png "Collecting Parameter")
+![alt text](etc/collecting-parameter.urm.png "Collecting Parameter")
 
 ## Applicability
 Use the Collecting Parameter design pattern when

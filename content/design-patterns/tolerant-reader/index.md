@@ -203,7 +203,7 @@ deserializedFishV2 name=Scar age=5 length=12 weight=15
 
 ## Class diagram
 
-![alt text](./etc/tolerant_reader_urm.png "Tolerant Reader")
+![alt text](etc/tolerant_reader_urm.png "Tolerant Reader")
 
 ## Applicability
 

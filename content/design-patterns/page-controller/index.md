@@ -151,7 +151,7 @@ public class UserView {
 ```
 
 ## Class diagram
-![alt text](./etc/page-controller.urm.png)
+![alt text](etc/page-controller.urm.png)
 
 ## Applicability
 Use the Page Controller pattern when

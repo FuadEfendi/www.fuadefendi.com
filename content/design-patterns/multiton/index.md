@@ -132,7 +132,7 @@ Program output:
 
 ## Class diagram
 
-![alt text](./etc/multiton.png "Multiton")
+![alt text](etc/multiton.png "Multiton")
 
 ## Applicability
 

@@ -181,7 +181,7 @@ Here is the console output.
 
 ## Class diagram
 
-![alt text](./etc/unit-of-work.urm.png "unit-of-work")
+![alt text](etc/unit-of-work.urm.png "unit-of-work")
 
 ## Applicability
 

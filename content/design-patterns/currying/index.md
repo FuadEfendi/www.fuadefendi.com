@@ -166,7 +166,7 @@ Book{genre=SCI_FI, author='Isaac Asimov', title='Foundation', publicationDate=19
 ```
 
 ## Class diagram
-![currying-uml](./etc/currying.urm.png)
+![currying-uml](etc/currying.urm.png)
 
 ## Applicability
 A curried function which has only been passed some of its arguments is called a partial application. Partial application 

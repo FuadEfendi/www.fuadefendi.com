@@ -195,7 +195,7 @@ Program output:
 
 ## Class diagram
 
-![alt text](./etc/facade.urm.png "Facade pattern class diagram")
+![alt text](etc/facade.urm.png "Facade pattern class diagram")
 
 ## Applicability
 

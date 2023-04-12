@@ -92,7 +92,7 @@ public class Request {
 
 ## Architecture Diagram
 
-![alt text](./etc/session_state_pattern.png "Session State Pattern")
+![alt text](etc/session_state_pattern.png "Session State Pattern")
 
 ## Applicability
 

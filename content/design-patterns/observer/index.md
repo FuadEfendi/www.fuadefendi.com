@@ -138,7 +138,7 @@ The hobbits are facing sunny weather now
 
 ## Class diagram
 
-![alt text](./etc/observer.png "Observer")
+![alt text](etc/observer.png "Observer")
 
 ## Applicability
 

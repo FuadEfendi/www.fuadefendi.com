@@ -171,11 +171,11 @@ public class PresentationModel {
 
 We can run class `App` to start this demo. the checkbox is the album classical; the first text field is the name of album artist; the second is the name of album title; the last one is the name of the composer:
 
-![](./etc/result.png)
+![](etc/result.png)
 
 
 ## Class diagram
-![](./etc/presentation-model.urm.png "presentation model")
+![](etc/presentation-model.urm.png "presentation model")
 
 ## Applicability
 Use the Presentation Model Pattern when

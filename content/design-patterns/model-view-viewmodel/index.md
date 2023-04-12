@@ -107,7 +107,7 @@ To deploy the example, go to model-view-viewmodel folder and run:
 
 ## Class diagram
 
-![alt text](./etc/model-view-viewmodel.png "MVVM pattern class diagram")
+![alt text](etc/model-view-viewmodel.png "MVVM pattern class diagram")
 
 ## Applicability
 

@@ -304,7 +304,7 @@ The program output:
 
 ## Class diagram
 
-![](./etc/domain-model.urm.png "domain model")
+![](etc/domain-model.urm.png "domain model")
 
 ## Applicability
 

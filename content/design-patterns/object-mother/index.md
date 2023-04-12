@@ -12,7 +12,7 @@ type: docs
 Define a factory of immutable content with separated builder and factory interfaces.
 
 ## Class diagram
-![alt text](./etc/object-mother.png "Object Mother")
+![alt text](etc/object-mother.png "Object Mother")
 
 ## Applicability
 Use the Object Mother pattern when

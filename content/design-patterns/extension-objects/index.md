@@ -13,7 +13,7 @@ Anticipate that an object’s interface needs to be extended in the future. Addi
 interfaces are defined by extension objects.
 
 ## Class diagram
-![Extension_objects](./etc/extension_obj.png "Extension objects")
+![Extension_objects](etc/extension_obj.png "Extension objects")
 
 ## Applicability
 Use the Extension Objects pattern when:

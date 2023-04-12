@@ -16,7 +16,7 @@ system can be described as a first in, first out design pattern model. Event Que
 resource with limited accessibility (i.e. Audio or Database), however, you need to provide access to all the requests 
 which seeks this resource. Upon accessing an event from the queue, the program also removes it from the queue.
 
-![alt text](./etc/event-queue-model.png "Event Queue Visualised")
+![alt text](etc/event-queue-model.png "Event Queue Visualised")
 
 ## Explanation 
 
@@ -179,7 +179,7 @@ summarised below.
 
 
 ## Class diagram
-![alt text](./etc/model.png "Event Queue")
+![alt text](etc/model.png "Event Queue")
 
 ## Applicability
 

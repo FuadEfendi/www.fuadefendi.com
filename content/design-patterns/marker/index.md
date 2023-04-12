@@ -12,7 +12,7 @@ type: docs
 Using empty interfaces as markers to distinguish special treated objects.
 
 ## Class diagram
-![alt text](./etc/MarkerDiagram.png "Marker Interface")
+![alt text](etc/MarkerDiagram.png "Marker Interface")
 
 ## Applicability
 Use the Marker Interface pattern when

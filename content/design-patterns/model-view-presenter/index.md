@@ -538,7 +538,7 @@ Below code reflects how we wire-up the Presenter & the View and the Presenter & 
 ```
 
 ## Class diagram
-![alt text](./etc/model-view-presenter_1.png "Model-View-Presenter")
+![alt text](etc/model-view-presenter_1.png "Model-View-Presenter")
 
 ## Applicability
 Use the Model-View-Presenter in any of the following

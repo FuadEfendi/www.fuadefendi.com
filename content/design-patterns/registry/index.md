@@ -71,7 +71,7 @@ public final class CustomerRegistry {
 ```
 
 ## Class diagram
-![Registry](./etc/registry.png)
+![Registry](etc/registry.png)
 
 ## Applicability
 Use Registry pattern when 

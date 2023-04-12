@@ -279,7 +279,7 @@ a file using `Promise`.
 
 ## Class diagram
 
-![alt text](./etc/promise.png "Promise")
+![alt text](etc/promise.png "Promise")
 
 ## Applicability
 

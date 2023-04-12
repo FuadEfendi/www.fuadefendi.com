@@ -205,7 +205,7 @@ public class App {
 ```
 
 ## Class diagram
-![alt_text](./etc/class_diagram.urm.png "Serialized Entity")
+![alt_text](etc/class_diagram.urm.png "Serialized Entity")
 
 ## Applicability
 

@@ -130,7 +130,7 @@ Ring of armor
 
 ## Class diagram
 
-![alt text](./etc/iterator_1.png "Iterator")
+![alt text](etc/iterator_1.png "Iterator")
 
 ## Applicability
 
