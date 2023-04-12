@@ -1,11 +1,12 @@
 ---
 title: Builder
-categories:
-  - Creational
-language: en
-tags:
-  - Gang of Four
 type: docs
+series:
+  - Design Patterns
+categories:
+  - Gang of Four
+tags:
+  - Creational
 ---
 
 ## Intent
