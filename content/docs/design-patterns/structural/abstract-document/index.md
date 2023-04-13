@@ -28,11 +28,7 @@ In plain words
 
 Wikipedia says
 
-> An object-oriented structural design pattern for organizing objects in loosely typed key-value stores and exposing 
-the data using typed views. The purpose of the pattern is to achieve a high degree of flexibility between components 
-in a strongly typed language where new properties can be added to the object-tree on the fly, without losing the 
-support of type-safety. The pattern makes use of traits to separate different properties of a class into different 
-interfaces.
+> An object-oriented structural design pattern for organizing objects in loosely typed key-value stores and exposing the data using typed views. The purpose of the pattern is to achieve a high degree of flexibility between components in a strongly typed language where new properties can be added to the object-tree on the fly, without losing the support of type-safety. The pattern makes use of traits to separate different properties of a class into different interfaces.[1] The term "document" is inspired from document-oriented databases. 
 
 **Programmatic Example**
 

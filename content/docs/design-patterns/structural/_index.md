@@ -1,0 +1,4 @@
+---
+title: Structural
+linkTitle: Structural
+---
