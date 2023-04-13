@@ -1,5 +1,5 @@
 ---
-title: Desing Patterns
+title: Design Patterns
 draft: false
 menu:
   main:
