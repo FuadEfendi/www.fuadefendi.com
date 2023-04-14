@@ -29,8 +29,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>servant</groupId>
   <parent>
-    <groupId>com.iluwatar</groupId>
-    <artifactId>java-design-patterns</artifactId>
+    <groupId>com.fuadefendi</groupId>
+    <artifactId>patterns</artifactId>
     <version>1.26.0-SNAPSHOT</version>
   </parent>
   <artifactId>servant</artifactId>
