@@ -58,3 +58,4 @@ Depending on the implementation, you can use the control plane to export observa
 * [What is a Service Mesh? - konghq.com](https://konghq.com/learning-center/service-mesh/what-is-a-service-mesh)
 * [Understanding Service Mesh Architecture - konghq.com](https://konghq.com/learning-center/service-mesh/what-is-service-mesh-architecture)
 * [Service Mesh - techtarget.com](https://www.techtarget.com/searchitoperations/definition/service-mesh)
+* [The Istio service mesh - istio.io](https://istio.io/latest/about/service-mesh/)
