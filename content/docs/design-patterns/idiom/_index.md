@@ -1,0 +1,4 @@
+---
+title: Idiom
+linkTitle: Idiom
+---

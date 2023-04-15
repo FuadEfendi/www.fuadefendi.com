@@ -1,4 +1,0 @@
----
-title: Testing
-linkTitle: Testing
----
