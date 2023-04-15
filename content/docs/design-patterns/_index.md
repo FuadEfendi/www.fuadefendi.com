@@ -7,5 +7,5 @@ menu:
     params:
       icon:
         vendor: bs
-        name: card-list
+        name: book
 ---
