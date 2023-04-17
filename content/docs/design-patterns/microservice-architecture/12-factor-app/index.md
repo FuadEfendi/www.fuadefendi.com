@@ -16,7 +16,7 @@ tags:
 
 ## What is The Twelve Factor App?
 > The Twelve Factor App a methodology for building modern, scalable, maintainable Software-as-a-Service (SaaS) apps.
-The Twelve Factor App is a se of principles that describes a way of making software that, when followed, enables companies to create code that can be released reliably, scaled quickly, and maintained in a consistent and predictable manner.
+The Twelve Factor App is a set of principles that describes a way of making software that, when followed, enables companies to create code that can be released reliably, scaled quickly, and maintained in a consistent and predictable manner.
 
 ## Why Do You Need The Twelve Factor App?
 In the modern era, software is commonly provided as a service: so-called *Web Applications* or *Software as a Service*. The Twelve Factor App is a methodology for creating software as a service applications that:
@@ -101,7 +101,7 @@ Regarding shutdown, "disposability" stands for ensuring that all connections to 
 ### X. Dev/Prod Parity
 > Keep development, staging, and production as similar as possible
 
-The **Dev/Prod Parity** principle means that all deployment paths are similar but independent, and that a deployment does not "jump" to a different deployment target; we do NOT copy artifacts from DEV tyo PROD; instead, our CI/CD rebuilds everything and deploys using different targets (DEV, QA, PROD).
+The **Dev/Prod Parity** principle means that all deployment paths are similar but independent, and that a deployment does not "jump" to a different deployment target; we do NOT copy artifacts from DEV to PROD; instead, our CI/CD rebuilds everything and deploys using different targets (DEV, QA, PROD).
 
 **Dev/Prod Parity** is very similar to **Build, Release, Run**. The important difference is that Dev/Prod Parity provides the same deployment process for production as it does for development.
 
