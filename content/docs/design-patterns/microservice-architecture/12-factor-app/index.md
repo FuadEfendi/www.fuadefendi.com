@@ -1,5 +1,5 @@
 ---
-title: 12 Factor App
+title: '"12 Factor App"'
 language: en
 type: docs
 series:
