@@ -72,5 +72,5 @@ For example, you can use AWS Elastic Load Balancer or proxy servers in Kubernete
 * [Client-side service discovery - microservices.io](https://microservices.io/patterns/client-side-discovery.html)
 * [Server-side service discovery - microservices.io](https://microservices.io/patterns/server-side-discovery.html)
 * [Service Discovery in Microservices - baeldung.com](https://www.baeldung.com/cs/service-discovery-microservices)
-* [Service Discovery in a Microservices Architecture - nginx.com](https://microservices.io/patterns/server-side-discovery.html)
+* [Service Discovery in a Microservices Architecture - nginx.com](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
 
