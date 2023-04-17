@@ -61,7 +61,7 @@ The **Backing Services** principle encourages architects to consider external co
 ### V. Build, Release, Run
 > Strictly separate build and run stages
 
-The **Build, Release, Run** principle breaks down the deployment process into three reproducible steps that can be started at any time. During the **Build** phase, code is pulled from source control and built/compiled into artifacts stored in an artifact repository such as Docker Hub or a Maven repository. After the code is built, the configuration settings are applied during the **Release**** phase. Then, in the **Run** (execute) phase, the runtime is scripted using a tool like Ansible. The application and its dependencies are deployed to the newly provisioned runtime.
+The **Build, Release, Run** principle breaks down the deployment process into three reproducible steps that can be started at any time. During the **Build** phase, code is pulled from source control and built/compiled into artifacts stored in an artifact repository such as Docker Hub or a Maven repository. After the code is built, the configuration settings are applied during the **Release** phase. Then, in the **Run** (execute) phase, the runtime is scripted using a tool like Ansible. The application and its dependencies are deployed to the newly provisioned runtime.
 
 The key to **Build, Release, Run** is that the process is completely ephemeral. If something in the pipeline is destroyed, all artifacts and environments can be rebuilt from scratch using the assets stored in the source code repository.
 
