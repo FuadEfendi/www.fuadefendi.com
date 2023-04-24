@@ -5,31 +5,31 @@ go 1.19
 require (
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hbstack/back-to-top v0.1.2 // indirect
-	github.com/hbstack/base v0.1.3 // indirect
+	github.com/hbstack/base v0.1.5 // indirect
 	github.com/hbstack/bigger-picture v0.6.0 // indirect
-	github.com/hbstack/blog v0.8.1 // indirect
+	github.com/hbstack/blog v0.9.0 // indirect
 	github.com/hbstack/blog/modules/breadcrumb v0.1.2 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.0 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.1.2 // indirect
-	github.com/hbstack/blog/modules/giscus v0.1.2 // indirect
+	github.com/hbstack/blog/modules/giscus v0.1.3 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.1 // indirect
 	github.com/hbstack/blog/modules/post-nav v0.2.0 // indirect
-	github.com/hbstack/blog/modules/related-posts v0.1.1 // indirect
+	github.com/hbstack/blog/modules/related-posts v0.1.2 // indirect
 	github.com/hbstack/bootstrap v0.1.2 // indirect
-	github.com/hbstack/carousel v0.2.0 // indirect
+	github.com/hbstack/carousel v0.2.1 // indirect
 	github.com/hbstack/code-block-panel v0.1.0 // indirect
 	github.com/hbstack/docs/modules/breadcrumb v0.1.2 // indirect
 	github.com/hbstack/docs/modules/content-panel v0.1.0 // indirect
 	github.com/hbstack/docs/modules/doc-nav v0.2.0 // indirect
 	github.com/hbstack/docs/modules/featured-image v0.1.2 // indirect
-	github.com/hbstack/docs/modules/giscus v0.1.2 // indirect
+	github.com/hbstack/docs/modules/giscus v0.1.3 // indirect
 	github.com/hbstack/docs/modules/heading-sign v0.1.1 // indirect
-	github.com/hbstack/footer v0.1.5 // indirect
+	github.com/hbstack/footer v0.2.1 // indirect
 	github.com/hbstack/footer/modules/socials v0.1.2 // indirect
-	github.com/hbstack/gallery v0.3.0 // indirect
+	github.com/hbstack/gallery v0.4.0 // indirect
 	github.com/hbstack/gallery/modules/breadcrumb v0.1.0 // indirect
-	github.com/hbstack/hb v0.2.0 // indirect
-	github.com/hbstack/header v0.1.10 // indirect
+	github.com/hbstack/hb v0.4.0 // indirect
+	github.com/hbstack/header v0.1.15 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.2 // indirect
 	github.com/hbstack/header/modules/search v0.1.5 // indirect
 	github.com/hbstack/header/modules/socials v0.1.1 // indirect

@@ -28,8 +28,10 @@ images:
 #         color: '#e24d0e'
 ---
 
-Summary.
+## What Is "{{ replace .Name "-" " " | title }}"
 
 <!--more-->
 
-Content.
+## Examples Of "{{ replace .Name "-" " " | title }}"
+
+
