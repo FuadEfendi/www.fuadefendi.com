@@ -5,18 +5,20 @@ hb:
     brand: # the brand name, leave it empty to use site's title.
     logo_bg: 'transparent' # logo background color, used by logo with transparent background.
     socials:
-      github: hbstack
-      kofi: razonyang
-      paypal: razonyang
-      twitter: razonyang
-      mastodon: razonyang
+      github: FuadEfendi
+      linkedin: FuadEfendi
+      paypal: FuadEfendi
+      twitter: FuadEfendiCA
+      telegram: FuadEfendi
+      gmail: 'mailto:fuad@efendi.ca'
   footer:
     socials:
-      github: hbstack
-      kofi: razonyang
-      paypal: razonyang
-      twitter: razonyang
-      mastodon: razonyang
+      github: FuadEfendi
+      linkedin: FuadEfendi
+      paypal: FuadEfendi
+      twitter: FuadEfendiCA
+      telegram: FuadEfendi
+      gmail: 'mailto:fuad@efendi.ca'
   blog:
     paginate: 12 # paginate.
     home: # homepage settings.
